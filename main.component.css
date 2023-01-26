@@ -1,0 +1,129 @@
+.container
+{
+
+background: linear-gradient(129.86deg, #21E8C4 -20.42%, #179B93 -3.13%, #267B87 24.22%, #0F474F 72.75%);
+}
+p
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 1.5rem;
+line-height: 32px;
+color: #FFFFFF;
+position: absolute;
+width: 48px;
+height: 32px;
+left: 155px;
+top: 44px;
+}
+button
+{
+position: absolute;
+width: 128px;
+height: 27px;
+left: 925px;
+top: 45px;
+background: #D9D9D9;
+border-radius: 23px;
+}
+.search
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 128%;
+letter-spacing: 0.115em;
+text-transform: capitalize;
+top:52px;
+color: rgba(0, 0, 0, 0.93);
+}
+.nike-img
+{
+position: absolute;
+width: 94px;
+height: 94px;
+left: 223px;
+top: 8px;
+}
+.men
+{
+    position: absolute;
+width: 46px;
+height: 27px;
+left: 519px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 128%;
+/* identical to box height, or 27px */
+
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #ECE2E2;
+}
+.women
+{
+    position: absolute;
+width: 84px;
+height: 27px;
+left: 589px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 128%;
+/* identical to box height, or 27px */
+
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #ECE2E2;
+}
+.kids
+{
+    position: absolute;
+width: 44px;
+height: 27px;
+left: 695px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 128%;
+/* identical to box height, or 27px */
+
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #ECE2E2;
+}
+.customise
+{
+    position: absolute;
+width: 116px;
+height: 27px;
+left: 762px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 128%;
+/* identical to box height, or 27px */
+
+letter-spacing: 0.015em;
+text-transform: capitalize;
+
+color: #ECE2E2;
+}
